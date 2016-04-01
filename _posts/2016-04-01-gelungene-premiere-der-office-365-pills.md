@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-01T22:36:55.675Z'
-dateModified: '2016-02-19T03:34:27.252Z'
+description: 'Die Einladung für eine gänzlich andere Veranstaltung, welche mit den Office 365 Pills in der Überschrift schon einiges im Vorfeld an – und vermuten ließ, folgten 30 Teilnehmer welche bunt gemischt aus verschiedenen Unternehmenszweigen die Räume von „Zibert & Friends“ betraten. Dem Sturm-Regen Wetter trotzten die hellen, freundliche Räume und sehr gut gelaunte Gastgeber an diesem Mittwochnachmittag. Beim Handschlag zur Begrüßung und dem entgegen nehmen der Namensschilder, freuten sich einige Teilnehmer sichtlich die Referenten zu sehen.'
+datePublished: '2016-04-01T22:37:15.345Z'
+dateModified: '2016-04-01T22:37:04.544Z'
 title: Gelungene Premiere der Office 365 Pills
 author: []
+sourcePath: _posts/2016-04-01-gelungene-premiere-der-office-365-pills.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-01-gelungene-premiere-der-office-365-pills.md
-published: true
 url: gelungene-premiere-der-office-365-pills/index.html
 _type: Article
 
