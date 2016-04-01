@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nubola]]></title>
+        <description><![CDATA[Nubola]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 01 Apr 2016 22:36:56 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Gelungene Premiere der Office 365 Pills]]></title>
+            <description><![CDATA[<article><h1>Gelungene Premiere der Office 365 Pills</h1><p>Die Einladung für eine gänzlich andere Veranstaltung, welche mit den Office 365 Pills in der Überschrift schon einiges im Vorfeld an – und vermuten ließ, folgten 30 Teilnehmer welche bunt gemischt aus verschiedenen Unternehmenszweigen die Räume von „Zibert & Friends“ betraten. Dem Sturm-Regen Wetter trotzten die hellen, freundliche Räume und sehr gut gelaunte Gastgeber an diesem Mittwochnachmittag. Beim Handschlag zur Begrüßung und dem entgegen nehmen der Namensschilder, freuten sich einige Teilnehmer sichtlich die Referenten zu sehen.</p></article>]]></description>
+            <link>undefinedgelungene-premiere-der-office-365-pills/index.html</link>
+            <guid isPermaLink="false">84dc7eaa-947d-45aa-a29b-f0adc5e372aa</guid>
+            <pubDate>Fri, 01 Apr 2016 22:36:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
